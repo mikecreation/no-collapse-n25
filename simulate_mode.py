@@ -1,6 +1,6 @@
 from mirror_bore import solve, mem
 
-def simulate_mode(puzzle_name, sample_fn, grade_fn, tag_prefix, rounds=10):
+def simulate_mode(puzzle_name, sample_fn, grade_fn, tag_prefix, rounds=25):
     results = []
 
     for i in range(rounds):
