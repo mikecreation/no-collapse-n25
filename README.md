@@ -35,10 +35,10 @@ Set your API key:
 "set OPENAI_API_KEY=your_key_here"
 
 2) Install Python requirements
-"pip install -r requirements.txt"
+>pip install -r requirements.txt
 
 3) Run the benchmark script
-"python run_all.py"
+>python run_all.py
 
 4) Regenerate the token chart (optional) 
 "python simulate_mode.py"
