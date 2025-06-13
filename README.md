@@ -47,10 +47,12 @@ Set your API key:
 no-collapse-n25/
 ├── images/
 │   └── token_chart.png     ← place the PNG here
+├── mirror_bore.py          ← helper script for prompt generation
 ├── run_all.py              ← runs all four puzzles
 ├── simulate_mode.py        ← regenerates token_chart.png
 ├── no-collapse-n25.tex     ← LaTeX source
-├── Apple_was_wrong.pdf     ← compiled paper PDF
-├── refs.bib                ← bibliography (if using BibTeX)
+├── No_Collapse_GPT-4_Solves_Symbolic_Planning_at_N25.pdf  
+├── refs.bib                ← bibliography if using BibTeX
 └── README.md               ← this file
+
 
