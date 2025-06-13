@@ -31,5 +31,24 @@ This repo is a **symbolic planning benchmark breakthrough**. GPT-4, under recurs
 
 Set your API key:
 
-```bash
-set OPENAI_API_KEY=your_key_here
+
+"set OPENAI_API_KEY=your_key_here"
+
+2) Install Python requirements
+"pip install -r requirements.txt"
+
+3) Run the benchmark script
+"python run_all.py"
+
+4) Regenerate the token chart (optional) 
+"python simulate_mode.py"
+
+no-collapse-n25/
+├── images/
+│   └── token_chart.png     ← place the PNG here
+├── run_all.py              ← runs all four puzzles
+├── simulate_mode.py        ← regenerates token_chart.png
+├── no-collapse-n25.tex     ← LaTeX source
+├── Apple_was_wrong.pdf     ← compiled paper PDF
+├── refs.bib                ← bibliography (if using BibTeX)
+└── README.md               ← this file
