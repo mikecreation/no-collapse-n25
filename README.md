@@ -45,8 +45,8 @@ Set your API key:
 
 
 
-```text
-  no-collapse-n25/
+text
+no-collapse-n25/
   ├── images/
   │   └── token_chart.png     ← place the PNG here
   ├── mirror_bore.py          ← helper script for prompt generation
