@@ -45,7 +45,7 @@ Set your API key:
 
 
 
-text
+```text
 no-collapse-n25/
   ├── images/
   │   └── token_chart.png     ← place the PNG here
