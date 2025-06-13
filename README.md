@@ -39,7 +39,7 @@ Set your API key:
 >python run_all.py<
 
 4) Regenerate the token chart (optional) 
-python simulate_mode.py
+>python simulate_mode.py<
 
 
 
