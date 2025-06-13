@@ -46,7 +46,7 @@ Set your API key:
 
 ## Directory Structure
 
-```text
+```markdown
 no-collapse-n25/
 ├── images/
 │   └── token_chart.png     ← place the PNG here
