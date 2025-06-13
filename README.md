@@ -43,6 +43,8 @@ Set your API key:
 
 ## Directory Structure
 
+## Directory Structure
+
 ```text
 no-collapse-n25/
 ├── images/
@@ -51,8 +53,9 @@ no-collapse-n25/
 ├── run_all.py              ← runs all four puzzles
 ├── simulate_mode.py        ← regenerates token_chart.png
 ├── no-collapse-n25.tex     ← LaTeX source
-├── No_Collapse_GPT-4_Solves_Symbolic_Planning_at_N25.pdf  
+├── No_Collapse_GPT-4_Solves_Symbolic_Planning_at_N25.pdf
 ├── refs.bib                ← bibliography if using BibTeX
 └── README.md               ← this file
+
 
 
