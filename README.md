@@ -13,7 +13,7 @@ This repo is a **symbolic planning benchmark breakthrough**. GPT-4, under recurs
 -  Defies collapse claims by Shojaee et al. (2025)
 
 ### 🧪 Benchmarks Run (N = 25)
-```text
+```markdown
 | Puzzle         | Pass Rate | Tokens (avg) |
 |----------------|-----------|-------------*|
 | Tower of Hanoi | 100%      | ~89 tokens   |
