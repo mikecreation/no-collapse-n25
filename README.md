@@ -23,7 +23,7 @@ This repo is a **symbolic planning benchmark breakthrough**. GPT-4, under recurs
 
 ### 📄 Read the Paper
 
-[📥 [Download thefullpaper(PDF)] (./no-collapse-n25.pdf)][(https://github.com/mikecreation/no-collapse-n25/blob/main/Anti_Appleus%20(5)]([https://github.com/mikecreation/no-collapse-n25/blob/main/Anti_Appleus%20(5)](https://github.com/mikecreation/no-collapse-n25/blob/d304972db3ab36d4c48a0234264bd94012d195cf/Anti_Appleus%20(5).pdf).pdf](https://github.com/mikecreation/no-collapse-n25/blob/main/Apple%20was%20wrong.pdf))
+[📥 [Download thefullpaper(PDF)] (https://github.com/mikecreation/no-collapse-n25/blob/main/Apple%20was%20wrong.pdf)
 
 > “This proves symbolic collapse is not a property of large models, it’s a property of bad prompting.”
 
